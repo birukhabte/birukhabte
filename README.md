@@ -17,4 +17,7 @@ Hi, I'm Biruk 👋
 
 ## 📫 Contact
 - GitHub: https://github.com/birukhabte
+- Linkedin: www.linkedin.com/in/biruk-habte-ab9642295
+
+
 
