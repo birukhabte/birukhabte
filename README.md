@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--# Hi, I'm Biruk 👋
-
+🎓 Graduated in 2025 with a BSc in Information System from Addis Ababa University
 💻 Software Engineer | Full-Stack Developer  
 🚀 Building modern web applications  
 🌱 Learning and improving every day  
