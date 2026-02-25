@@ -14,7 +14,7 @@ Hi, I'm Biruk 👋
 - Tools: Git, GitHub, Vercel, Docker, VS Code
 
 ## 🌐 Portfolio
-🔗 https://my-personal-portfolio-ten-rouge.vercel.app/
+🔗 https://birukhabte.vercel.app/
 
 ## 📫 Contact
 - GitHub: https://github.com/birukhabte
