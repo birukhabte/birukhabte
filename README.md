@@ -7,4 +7,14 @@
 </div>
 
 ---
+## 🚀 **Architecting Excellence, One Line at a Time**
+
+```javascript
+const biruk = {
+  role: "Senior Software Engineer",
+  mission: "Building scalable, maintainable, and high-performance applications",
+  philosophy: "Clean code today, better tomorrow",
+  focus: ["System Architecture", "Cloud Computing", "Developer Experience"],
+  currentQuest: "Mastering Distributed Systems & Microservices"
+};
 
