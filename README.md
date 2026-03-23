@@ -20,26 +20,28 @@ I enjoy turning ideas into real-world software solutions and building clean, mai
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
-![Framer](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-0F172A?logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?logo=framer)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-20232A?logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-20232A?logo=express)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+### Data Layer
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-20232A?logo=postgresql&logoColor=316192)
+![Prisma](https://img.shields.io/badge/-Prisma-20232A?logo=prisma)
+![Supabase](https://img.shields.io/badge/-Supabase-20232A?logo=supabase&logoColor=3ECF8E)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-20232A?logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/-GitHub-20232A?logo=github)
+![Docker](https://img.shields.io/badge/-Docker-20232A?logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/-Vercel-20232A?logo=vercel)
+![VSCode](https://img.shields.io/badge/-VSCode-20232A?logo=visual-studio-code&logoColor=0078d7)
 
 ---
 
