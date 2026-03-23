@@ -7,91 +7,83 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 🚀 Architecting Excellence, One Line at a Time
+🎓 **BSc in Information Systems (2025)** – Addis Ababa University  
+💻 **Software Engineer | Full-Stack Developer**  
+🚀 Passionate about building modern and scalable web applications  
+🌱 Currently improving my skills in **backend architecture and cloud deployment**
 
-```javascript
-const biruk = {
-  role: "Senior Software Engineer",
-  mission: "Building scalable, maintainable, and high-performance applications",
-  philosophy: "Clean code today, better tomorrow",
-  focus: ["System Architecture", "Cloud Computing", "Developer Experience"],
-  currentQuest: "Mastering Distributed Systems & Microservices"
-};
+I enjoy turning ideas into real-world software solutions and building clean, maintainable applications using modern technologies.
 
-📈 Professional Journey
-<table> <tr> <td width="50%">
-🎓 Academic Foundation
+---
 
-BSc in Information Systems (2025)
-Addis Ababa University
-Summa Cum Laude Candidate
+## 🛠 Tech Stack
 
-🏆 Key Achievements
-✨ Architected 10+ production-grade applications
-🚀 Optimized application performance by 40%
-📦 Reduced deployment time by 60% using CI/CD
-🤝 Mentored 15+ junior developers
-</td> <td width="50%">
-💡 Technical Expertise
-System Design: Microservices, Event-Driven Architecture
-Performance: Optimization, Caching, CDN
-Security: OAuth2, JWT, Rate Limiting
-Testing: Unit, Integration, E2E
-DevOps: Docker, GitHub Actions, AWS
-</td> </tr> </table>
-🛠 Technology Arsenal
-Frontend
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,figma" /> </div>
-Backend
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,postgresql" /> </div>
-Cloud & DevOps
-<div align="center"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,nginx" /> </div>
-Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,supabase,firebase" /> </div>
-Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,webpack" /> </div>
-🌟 Featured Projects
-<table> <tr> <td width="50%">
-🏥 MediTrack Pro
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![Framer](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer)
 
-Healthcare Management System
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
-📊 Real-time patient monitoring
-🔐 Secure data encryption
-⚡ 2000+ concurrent users
-🔄 Microservices + Redis
-</td> <td width="50%">
-💼 FinFlow
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-Financial Analytics Platform
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
 
-📈 Real-time dashboards
-🤖 AI predictions
-🔒 High-level security
-⏱️ 99.9% uptime
-</td> </tr> <tr> <td width="50%">
-📱 DevConnect
+---
 
-Developer Social Network
+## 🌐 Portfolio
 
-👥 10K+ users
-💬 Real-time chat
-📝 Code collaboration
-🎯 Advanced search
-</td> <td width="50%">
-🔧 AutoDeploy
+🔗 **Portfolio Website**  
+https://birukhabte.vercel.app/
 
-CI/CD Automation Tool
+---
 
-🚀 Faster deployments
-🔄 Auto testing
-📊 Metrics tracking
-🐳 Docker + Kubernetes
-</td> </tr> </table>
-📊 Engineering Metrics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=birukhabte&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=birukhabte&hide_border=true&theme=tokyonight" width="400"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=birukhabte&theme=tokyo-night&hide_border=true" width="800"/> </div>
-🤝 Let's Connect
-💼 LinkedIn: [Your LinkedIn]
-🌐 Portfolio: [Your Portfolio]
-📧 Email: [Your Email]
+## 📊 GitHub Stats
+
+![Biruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=birukhabte&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=birukhabte&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birukhabte&layout=compact&theme=tokyonight)
+
+---
+
+## 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=birukhabte&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/birukhabte  
+- 💼 LinkedIn: https://www.linkedin.com/in/biruk-habte-ab9642295  
+- 🌐 Portfolio: https://birukhabte.vercel.app/
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+I'm always open to **collaboration, open-source projects, and exciting opportunities.**
+
+
+
