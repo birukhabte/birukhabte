@@ -20,8 +20,6 @@ I enjoy turning ideas into real-world software solutions and building clean, mai
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Frontend
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-0F172A?logo=tailwind-css)
