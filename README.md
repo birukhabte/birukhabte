@@ -9,7 +9,7 @@
 ---
 ## 👨‍💻 About Me
 
-🎓 **BSc in Information Systems (2025)** – Addis Ababa University  
+🎓 **BSc in Information Systems – Addis Ababa University  
 💻 **Software Engineer | Full-Stack Developer**  
 🚀 Passionate about building modern and scalable web applications  
 🌱 Currently improving my skills in **backend architecture and cloud deployment**
