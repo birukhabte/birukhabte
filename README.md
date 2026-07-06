@@ -78,7 +78,7 @@ https://birukhabte.vercel.app/
 
 - 💻 GitHub: https://github.com/birukhabte  
 - 💼 LinkedIn: https://www.linkedin.com/in/biruk-habte-ab9642295  
-- 🌐 Portfolio: https://birukhabte.vercel.app/
+
 
 ---
 
